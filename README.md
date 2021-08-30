@@ -1,3 +1,7 @@
+### Recent Activities
+
+I'm recently developing Android Applications using Jetpack Compose as well as Web Applications using Django, please feel free to discuss technical issues with me by **max.chenxing.wang (at) gmail.com**.
+
 ### Hi there 👋
 
 - 💼 I am a P.h.D candidate in **Beijing University of Posts and Telecomunications**, working as a research assistant in the **Institute of Computing Technology of the Chinese Academy of Sciences**.
