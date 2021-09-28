@@ -1,6 +1,10 @@
 ### Recent Activities
 
-I'm recently developing Android Applications using Jetpack Compose as well as Web Applications using Django, please feel free to discuss technical issues with me by **max.chenxing.wang (at) gmail.com**.
+- I'm recently developing Python-based toolkit for travel time estimation.
+
+- I'm recently developing Android Applications using Jetpack Compose as well as Web Applications using Django.
+
+Please feel free to discuss technical issues with me by **max.chenxing.wang (at) gmail.com**.
 
 ### Hi there 👋
 
