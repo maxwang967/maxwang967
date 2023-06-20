@@ -6,9 +6,7 @@
 
 ### Recent Activities
 
-- I'm recently developing Python-based toolkit for travel time estimation.
-
-- I'm recently developing Android Applications using Jetpack Compose as well as Web Applications using Django.
+- I'm currently focusing on trajectory recovery as well as the exploration on foundation models.
 
 Please feel free to discuss technical issues with me by **maxwang967 (at) gmail.com**.
 
